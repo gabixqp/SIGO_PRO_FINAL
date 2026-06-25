@@ -5,5 +5,6 @@ CLI003,Restaurante El Molino,Empresa,Mayorista,Lucía Torres,2026-01-12,,
 CLI004,Ana Salas,Persona natural,Delivery,Ana Salas,2026-01-15,,
 CLI005,Oficina Contable Rivera,Empresa,Corporativo,José Rivera,2026-01-20,,
 CLI006,Clínica Vida Arequipa,Corporativo,Institucional,Patricia Ramos,2026-02-01,,
-CLI007,Pedro,Corporativo,delivery,Maria quispe,2026-06-24,1231231,activo
-CLI008,asdasd,persona,corporativo,asda,2026-06-24,123123,activo
+CLI007,Pedro,Corporativo,delivery,Maria quispe,2026-06-24,1231231.0,activo
+CLI008,asdasd,persona,corporativo,asda,2026-06-24,123123.0,activo
+CLI009,Gourmet S.A.C.,corporativo,corporativo,939964651,2026-06-24,959576341,activo
